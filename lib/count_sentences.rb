@@ -1,7 +1,7 @@
 class String
   
   def sentence?
-    if ends
+    self.end_with"."
   end
   
   
