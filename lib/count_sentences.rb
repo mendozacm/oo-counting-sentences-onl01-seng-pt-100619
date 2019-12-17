@@ -4,5 +4,9 @@ class String
     self.end_with?"."
   end
   
+  def question?
+    
+  end 
+  
   
 end
